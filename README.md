@@ -1,25 +1,13 @@
-# Algorithms for speech and natural language processing (MVA 2022)
+# Algorithms for speech and natural language processing (MVA 2023)
 
 ## NEWS
 
-**!Attention: the dates for the oral defense of the project have been postponed; the new time slots are listed below; the report should be sent at least 24h before the date of the oral presentation** 
-
-**!Attention: The zoom link for the March 31st office hour is: https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09**
-
-**!Attention: Paul Michel will be holding office hours to answer questions and give feedback on the projects on March 15th (2-3PM) and March 17th (4-5PM). Register using this google form by Friday March 11th 7PM: https://forms.gle/JMKFQs3xyMsnd5AKA** 
-
-**!Attention: the course of Holger Scwhenk has been postponed to Friday April 11. There will be no course this Friday April 4, and all of the subsequent courses have been shifted by one week!** 
-
-
-**!Attention: the course of Holger Scwhenk is interactive. There is no prerecorded video; you have to be present for the entire duration of the course, from 16h to 18h30  (including Q&A)!** 
-
-
-**!Attention: the oral project presentation dates have been shifted back by two weeks. Instead of march 22 and 24, the dates will be on the following dates: Tuesday April 5 from 9am to 1pm, Wednesday April 6 from 9am to 1pm and Friday 8 from 1:30pm to 6:30 pm!** 
+**!Work in progress!** 
 
 
 
 ## Course Organizers
-Emmanuel Dupoux (EHESS, & Meta), Paul Michel (ENS), Nei Zeghidour (Google Brain), Benoit Sagot (INRIA)
+Emmanuel Dupoux (EHESS, & Meta), Robin Algayres (ENS), Neil Zeghidour (Google Brain), Benoit Sagot (INRIA)
 
 ## Contact information
 For any question/request related to this course, please send an email to this address: mva.speech.language@gmail.com
@@ -46,23 +34,19 @@ Basic linear algebra, calculus, probability theory
 
 ### 9 courses 
 The courses consist in 9 three-hours blocks, followed by an oral
-project presentation on week 10. Everything will be
-remote this year. Each three hours
-block consists in two off-line hours where you watch prerecorded
-materials (available on youtube), and one hour of interactive
-remote session taking place on Fridays, from 4pm to 5pm (zoom).
+project presentation on week 10. This year, the course will take place in presence, 
+every friday afternoons from 4pm to 7pm in salle Henri Cartan, 45 rue d'ULM. 
 
-The interactive session will have the following structure:
-- 4:00pm- 4:30pm: **on-line QUIZZ**. *Attention!! you must absolutely be on-line in this time period to answer quizz questions on a google form.*
-- 4:30pm- 5:00pm: Q&A session. Live session where the answers to the QUIZZ will be revealed an questions about the course can be asked.
+Each three hours block consists in two hours of course, followed by a quizz and Q&A.
+
 
 
 ### Validation
 The validation is in two parts:
 
-- **on-line QUIZZ** (40% of the total grade). This is the only part of the course where you are absolutely required to be connected on-line. You'll be given a link of a google form which will be activated exactly at 4:00pm and closed down at 4:30pm. Any forms submitted after the deadline will be automatically rejected, and graded as zero. The QUIZZES will contain comprehension questions and the best 5 grades out of the 6 quizzes will be used for the average. Between 4:30 and 5:00 there will be a Q&A period where you'll be able to ask questions about the course and QUIZZ using an on-line connection.
+- **QUIZZ** (30% of the total grade). You'll be given a link on w. You'll be given a link of a google form which will be activated exactly at 4:00pm and closed down at 4:30pm. Any forms submitted after the deadline will be automatically rejected, and graded as zero. The QUIZZES will contain comprehension questions and the best 5 grades out of the 6 quizzes will be used for the average. Between 4:30 and 5:00 there will be a Q&A period where you'll be able to ask questions about the course and QUIZZ using an on-line connection.
 
-- **Project.**  (60% of the total grade). You'll work in small groups of 2-4 around a recent paper in speech or language processing which has already some existing code. Your task will be 1. to replicate the main result of the paper 2. run a  experiment testing a new question not tested in the paper. You'll present your plan in a one page document in week #3, and your results in a 4 pages documend and 10 minutes oral presentation + 5 minutes questions in week #10. 
+- **Project.**  (70% of the total grade). You'll work in small groups of 2-4 around a recent paper in speech or language processing which has already some existing code. Your task will be 1. to replicate the main result of the paper 2. run a  experiment testing a new question not tested in the paper. You'll present your plan in a one page document in week #3, and your results in a 4 pages documend and 10 minutes oral presentation + 5 minutes questions in week #10. 
 
 the list of possible projects will be made available  here:
 https://docs.google.com/spreadsheets/d/12hI1JfS2S9dKreXwdmdi1DAYx72ANA1KvlWorMMT0zY/edit#gid=0
