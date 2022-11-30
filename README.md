@@ -61,12 +61,12 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
     - course: https://youtube.com/playlist?list=PLoWKS7d8OzpWXyFTleo31YqRQSnnPWRgi
 
 
-- #2 Feb 3, 2023. NLP1. NLP basics, Language Models for Text (Sagot, Michel)
+- #2 Feb 3, 2023. NLP1. NLP basics, Language Models for Text (Sagot)
      - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpW9VAG1TlpdwyJ6euun7YIp
      - 4:00pm-4:30pm: **on-line QUIZ** https://forms.gle/GG5k44t6No9ZG7W59
 	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: https://cmu.zoom.us/j/96594446576?pwd=MC9URXFHdWYrdW1IUE5tRVJVbjFOdz09
 
-- #3 Feb 10, 2023. NLP2. Representation learning for NLP (Sagot, Michel)
+- #3 Feb 10, 2023. NLP2. Representation learning for NLP (Sagot)
      - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpU21p-WVO-nQ_FOI02Jv2dM
      - 4:00pm-4:30pm: **on-line QUIZ**: (link: https://forms.gle/y1iSg7w31tyR2yfg8)
 	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: (link https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09)
@@ -81,14 +81,14 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
   acknowledgment within 24 h.**
 
 
-- #5 Feb 24, 2023. NLP4. Advanced topics in NLP (Sagot, Michel)
+- #5 Feb 24, 2023. NLP4. Advanced topics in NLP (Sagot)
      - course (virtual): https://youtube.com/playlist?list=PLoWKS7d8OzpVQ-HthtgmVPeYU7kx6KeDa
      - 4:00pm-4:30pm: **on-line QUIZ**: (link: https://forms.gle/DDBb8KGfQqXQeuS2A)
 	 - 4:30pm-5:00pm:  **BREAKOUT CORRECTIONS** + Q&A: (link https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09)
 
 
 
-- #6 March 3, 2023.  ASR1: Features and Acoustic Models (Zeghidour)
+- #6 March 3, 2023.  ASR1: Features and Acoustic Models (Zeghidour, Algayres)
      - course (virtual):  https://www.youtube.com/playlist?list=PLoWKS7d8OzpUurEpC6-TD7fs7OWwNO1fA
      - 4:00pm-4:30pm: **on-line QUIZ** https://docs.google.com/forms/d/e/1FAIpQLSdhIBwrzn7aEZUV0H_LMYhpdFO4wjP_TtPVHGwiGZl1Y3iJuQ/viewform?usp=sf_link
 	 - 4:30pm-5:00pm: Q&A: https://us02web.zoom.us/j/7773116784?pwd=OE5tM3FSM0pVa0JURDVtb2VGOEpDZz09 
@@ -99,13 +99,13 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 	 - 4:30pm-5:00pm: **BREAK-OUT Corrections** + Q&A: https://us04web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09
 
 
-- #8 March 17, 2023. ASR3: End-to-end models (Zeghidour)
+- #8 March 17, 2023. ASR3: End-to-end models (Zeghidour, Algayres)
      - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpVNj7A1DhvZknc0UherZbVf
      - 4:00pm-4:30pm: **on-line QUIZ** https://forms.gle/XMWJhVZb8nGj7QCYA
 	 - 4:30pm-5:00pm: **BREAKOUT CORRECTIONS** + Q&A: https://us04web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09
 
 
-- #9 March 24, 2023. Hot topics in speech and language
+- #9 March 24, 2023. Hot topics in speech and language (Sagot, Dupoux)
      - course (virtual): https://www.youtube.com/playlist?list=PLoWKS7d8OzpWk7ZaoT_gt_kf7_pUEfDSx
 	 - 4:00am-5:00am: Q&A
  https://us04web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09
