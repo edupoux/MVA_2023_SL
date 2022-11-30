@@ -1,12 +1,13 @@
 # MVA. Algorithms for speech and natural language processing
-# ASR1: Speech features and acoustic models 
+# Course 5. NLP basics - Language Models for Text
 
 
-## Professors
-N. Zeghidour, E. Dupoux
+## Professor
+B. Sagot & P. Michel
 
 ## Reading Materials
 
 
+## Practical Assignments
 
 

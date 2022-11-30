@@ -1,12 +1,12 @@
 # MVA. Algorithms for speech and natural language processing
-# Formal Languages
+# ASR1: Speech features and acoustic models 
 
-## Professor
-B. Sagot
+
+## Professors
+N. Zeghidour, E. Dupoux
 
 ## Reading Materials
 
 
-## Practical Assignments
 
 
