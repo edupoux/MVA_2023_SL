@@ -59,9 +59,9 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 
 - #1 Jan 27, 2023. Introduction (Sagot & Dupoux)
 
-- #2 Feb 3, 2023. NLP1. NLP basics, Language Models for Text (Sagot)
+- #2 Feb 3, 2023. NLP1. NLP basics, Language Models for Text (Sagot, Algayres)
 
-- #3 Feb 10, 2023. NLP2. Representation learning for NLP (Sagot)
+- #3 Feb 10, 2023. NLP2. Representation learning for NLP (Sagot,Algayres)
 
 - #4 Feb 17, 2023. NLP3. Machine Translation (Schwenk).
 
