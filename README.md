@@ -7,7 +7,7 @@
 
 
 ## Course Organizers
-Emmanuel Dupoux (EHESS, & Meta), Robin Algayres (ENS), Neil Zeghidour (Google Brain), Benoît Sagot (INRIA)
+Emmanuel Dupoux (EHESS, & Meta), Benoît Sagot (INRIA), Robin Algayres (ENS), Neil Zeghidour (Google Brain)
 
 ## Contact information
 For any question/request related to this course, please send an email to this address: mva.speech.language@gmail.com
