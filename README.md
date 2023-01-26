@@ -91,7 +91,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 
 ## details for the QUIZZ
 
-The QUIZZ will be composed of comprehension questions regarding the course you've just watched. You will have 30 minutes to complete the Google form which will be activated after the course and closed 30 minutes after. 
+The QUIZZ will be composed of comprehension questions regarding the course you've just watched. You will have 15 minutes to complete the Google form which will be activated after the main part of the course and closed 15 minutes after. We will then briefly discuss the answers.
 
 ## details for the PROJECT
 You will be given a list of papers to choose from.
