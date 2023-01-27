@@ -2,8 +2,7 @@
 
 ## NEWS
 
-**!Work in progress!** 
-
+Welcome to the course. It will be delivered in presence, every friday afternoons from 4pm to 7pm in salle Henri Cartan, 45 rue d'ULM.
 
 
 ## Course Organizers
