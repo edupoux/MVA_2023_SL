@@ -1,8 +1,8 @@
 # MVA. Algorithms for speech and natural language processing
-# Course 3. Language Models
+# ASR 3. End to end models
 
 ## Professors
-E. Dupoux, N. Zeghidour, R. Riad
+E. Dupoux, N. Zeghidour, R. Algayres
 
 # Reading Materials
 
@@ -28,10 +28,3 @@ University: http://web.stanford.edu/class/cs97si/04-dynamic-programming.pdf
 
 * background materials on WFSTs: http://www.openfst.org/twiki/bin/view/FST/FstBackground
 
-# Practical Assignment
-
-It is available as a python notebook here: TBA
-
-Works on Chrome and Safari. Does not work on Mozilla
-
-For more details, see this [page](../../../tree/master/TD_%231/).

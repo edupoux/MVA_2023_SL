@@ -1,12 +1,11 @@
 # MVA. Algorithms for speech and natural language processing
-# Formal Languages
+# NLP2: Representation learning for NLP
 
 ## Professor
-B. Sagot
+B. Sagot, R. Algayres
 
 ## Reading Materials
 
-
-## Practical Assignments
+TBA
 
 

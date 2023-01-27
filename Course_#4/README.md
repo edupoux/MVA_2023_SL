@@ -2,10 +2,10 @@
 # Lost in translation
 
 ## Professor
-Schwenk
+O. Schwenk
 
 ## Reading Materials
-
+TBA
 
 ## Practical Assignments
 

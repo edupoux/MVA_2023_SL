@@ -1,13 +1,12 @@
 # MVA. Algorithms for speech and natural language processing
-# Course 5. NLP basics - Language Models for Text
+# NLP1:  basics - Language Models for Text
 
 
 ## Professor
-B. Sagot & P. Michel
-
+B. Sagot & R. Algayres
 ## Reading Materials
 
+TBA
 
-## Practical Assignments
 
 

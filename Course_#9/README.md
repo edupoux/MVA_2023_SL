@@ -1,9 +1,9 @@
 # MVA. Algorithms for speech and natural language processing
-# Perspectives
+# Hot topics in speech & NLP
 
 
 ## Professors
-E. Dupoux B. Sagot
+E. Dupoux, N. Zeghidour &  B. Sagot
 
 ## Reading Materials
 

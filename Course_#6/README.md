@@ -3,7 +3,7 @@
 
 
 ## Professors
-N. Zeghidour, E. Dupoux
+N. Zeghidour, E. Dupoux, R. Algayres
 
 ## Reading Materials
 

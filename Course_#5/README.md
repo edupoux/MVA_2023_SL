@@ -1,10 +1,10 @@
 # MVA. Algorithms for speech and natural language processing
-# NLP applications and challenges
+# NLP4: Advanced topics in NLP
 
 
 
 ## Professors
-B. Sagot & P. Michel
+B. Sagot
 
 ## Reading Materials
 
