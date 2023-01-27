@@ -3,6 +3,7 @@
 ## NEWS
 
 Welcome to the course. It will be delivered in presence, every friday afternoons from 4pm to 7pm in salle Henri Cartan, 45 rue d'ULM.
+This is a difficult to find room, at the basement (two stories below ground floor) of Aile Rataud (a building at the far end and right side when you enter the 45 rue d'Ulm).
 
 
 ## Course Organizers
@@ -56,7 +57,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 
 ### Schedule and links
 
-- #1 Jan 27, 2023. Introduction (Sagot & Dupoux)
+- #1 Jan 27, 2023. Introduction (Sagot & Dupoux) [lien zoom](https://us02web.zoom.us/j/87404466224?pwd=QkQxbEkrUWZYTmh0QjFmOVNsdVY5Zz09)
 
 - #2 Feb 3, 2023. NLP1. NLP basics, Language Models for Text (Sagot, Algayres)
 
