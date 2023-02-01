@@ -56,13 +56,13 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 
 ### Schedule and links
 
-- #1 Jan 27, 2023. Introduction (Sagot & Dupoux) [lien zoom](https://us02web.zoom.us/j/87404466224?pwd=QkQxbEkrUWZYTmh0QjFmOVNsdVY5Zz09)
+- #1 Jan 27, 2023. Introduction (Sagot & Dupoux)
 
 - #2 Feb 3, 2023. NLP1. NLP basics, Language Models for Text (Sagot, Algayres)
 
 - #3 Feb 10, 2023. NLP2. Representation learning for NLP (Sagot,Algayres)
 
-- #4 Feb 17, 2023. NLP3. Machine Translation (Schwenk).
+- #4 Feb 17, 2023. NLP3. Advanced topics in NLP (Sagot).
 
 
 **Attention: deadline for project proposal (one page: FEB 17, 2022; midnight)**
@@ -70,7 +70,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
   email per group, CC all members of the group. You will receive an acknowledgment within 24 h.**
 
 
-- #5 Feb 24, 2023. NLP4. Advanced topics in NLP (Sagot)
+- #5 Feb 24, 2023. NLP4. Machine Translation (Schwenk)
 
 
 - #6 March 3, 2023.  ASR1: Features and Acoustic Models (Zeghidour, Algayres)
