@@ -2,8 +2,7 @@
 
 ## NEWS
 
-Welcome to the course. It will be delivered in presence, every friday afternoons from 4pm to 7pm in salle Henri Cartan, 45 rue d'ULM.
-This is a difficult to find room, at the basement (two stories below ground floor) of Aile Rataud (a building at the far end and right side when you enter the 45 rue d'Ulm).
+We are very sorry to announce that this course will only be available remotely. This year the only room that we were able to secure for the course (salle Henri Cartan, ENS) turned out to be 3 times too small, and its internet was not reliable enough to sustain a hybride mode. The course will then run through zoom in real time (there won't be video capture). Thhe quizz and Q&A will also be online and in real time. The time is every Friday afternoons from 4pm to 7pm. 
 
 
 ## Course Organizers
