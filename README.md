@@ -58,7 +58,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 
 - #1 Jan 27, 2023. Introduction (Sagot & Dupoux)
 
-- #2 Feb 3, 2023. NLP1. NLP basics, Language Models for Text (Sagot, Algayres)
+- #2 Feb 3, 2023. NLP1. NLP basics, Language Models for Text (Sagot, Algayres) [zoom link](https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09)
 
 - #3 Feb 10, 2023. NLP2. Representation learning for NLP (Sagot,Algayres)
 
@@ -70,10 +70,10 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
   email per group, CC all members of the group. You will receive an acknowledgment within 24 h.**
 
 
-- #5 Feb 24, 2023. NLP4. Machine Translation (Schwenk)
+- #5 Feb 24, 2023. NLP4. Machine Translation (Schwenk) 
 
 
-- #6 March 3, 2023.  ASR1: Features and Acoustic Models (Zeghidour, Algayres)
+- #6 March 3, 2023.  ASR1: Features and Acoustic Models (Zeghidour, Algayres) 
 
 - #7 March 10, 2023.  ASR2: Language Models for Speech (Dupoux)
 
@@ -85,7 +85,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
     - chatbots
 	- textless NLP
 
-- #10 March 27-March 31. Oral defense (remote)
+- #10 March 27-March 31. Oral defense (remote) 
 
 
 ## details for the QUIZZ
