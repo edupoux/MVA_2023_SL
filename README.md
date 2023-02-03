@@ -33,8 +33,8 @@ Basic linear algebra, calculus, probability theory
 
 ### 9 courses 
 The courses consist in 9 three-hours blocks, followed by an oral
-project presentation on week 10. This year, the course will take place in presence, 
-every friday afternoons **from 4pm to 7pm** in salle **Henri Cartan**, [45 rue d'ULM](https://www.google.com/maps/place/45+Rue+d'Ulm,+75005+Paris/@48.8424688,2.3420222,17z/data=!4m5!3m4!1s0x47e671e9e9f3a327:0xb168d68bd2ea2060!8m2!3d48.8423135!4d2.3443182). 
+project presentation on week 10. <del>This year, the course will take place in presence, 
+every friday afternoons **from 4pm to 7pm** in salle **Henri Cartan**, [45 rue d'ULM](https://www.google.com/maps/place/45+Rue+d'Ulm,+75005+Paris/@48.8424688,2.3420222,17z/data=!4m5!3m4!1s0x47e671e9e9f3a327:0xb168d68bd2ea2060!8m2!3d48.8423135!4d2.3443182). </del> The course will be held online.
 
 Each three hours block consists in two hours of course, followed by a quizz and Q&A.
 
