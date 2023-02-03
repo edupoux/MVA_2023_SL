@@ -2,7 +2,7 @@
 
 ## NEWS
 
-We are very sorry to announce that *this course will only be available remotely*. This year the only room that we were able to secure for the course (salle Henri Cartan, ENS) turned out to be 3 times too small, and its internet was not reliable enough to sustain a hybride mode. The course will then run through zoom in real time (there won't be video capture). The quizzes and Q&A sessions will also be online and in real time. The time is every Friday afternoons from 4pm to 7pm. 
+We are very sorry to announce that **this course will only be available remotely**. This year the only room that we were able to secure for the course (salle Henri Cartan, ENS) turned out to be 3 times too small, and its internet was not reliable enough to sustain a hybride mode. The course will then run through zoom in real time (there won't be video capture). The quizzes and Q&A sessions will also be online and in real time. The time is every Friday afternoons from 4pm to 7pm. 
 
 
 ## Course Organizers
@@ -60,9 +60,9 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 
 - #2 Feb 3, 2023. NLP1. NLP basics, Language Models for Text (Sagot, Algayres) [zoom link](https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09)
 
-- #3 Feb 10, 2023. NLP2. Representation learning for NLP (Sagot,Algayres)
+- #3 Feb 10, 2023. NLP2. Representation learning for NLP (Sagot, Algayres)
 
-- #4 Feb 17, 2023. NLP3. Advanced topics in NLP (Sagot).
+- #4 Feb 17, 2023. NLP3. Advanced topics in NLP (Sagot, Algayres).
 
 
 **Attention: deadline for project proposal (one page: FEB 17, 2022; midnight)**
