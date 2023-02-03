@@ -2,7 +2,7 @@
 
 ## NEWS
 
-We are very sorry to announce that this course will only be available remotely. This year the only room that we were able to secure for the course (salle Henri Cartan, ENS) turned out to be 3 times too small, and its internet was not reliable enough to sustain a hybride mode. The course will then run through zoom in real time (there won't be video capture). Thhe quizz and Q&A will also be online and in real time. The time is every Friday afternoons from 4pm to 7pm. 
+We are very sorry to announce that *this course will only be available remotely*. This year the only room that we were able to secure for the course (salle Henri Cartan, ENS) turned out to be 3 times too small, and its internet was not reliable enough to sustain a hybride mode. The course will then run through zoom in real time (there won't be video capture). The quizzes and Q&A sessions will also be online and in real time. The time is every Friday afternoons from 4pm to 7pm. 
 
 
 ## Course Organizers
