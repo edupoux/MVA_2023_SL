@@ -62,7 +62,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 
 - #3 Feb 10, 2023. NLP2. Representation learning for NLP (Sagot, Algayres) [zoom link](https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09) — [quiz link](https://forms.gle/MqphGpnGMhS48biH9)
 
-- #4 Feb 17, 2023. NLP3. Advanced topics in NLP (Sagot, Algayres).
+- #4 Feb 17, 2023. NLP3. Advanced topics in NLP (Sagot, Algayres). Same zoom link as above
 
 
 **Attention: deadline for project proposal (one page: FEB 17, 2022; midnight)**
@@ -70,18 +70,23 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
   email per group, CC all members of the group. You will receive an acknowledgment within 24 h.**
 
 
-- #5 Feb 24, 2023. NLP4. Machine Translation (Schwenk) 
+- #5 Feb 24, 2023. NLP4. Machine Translation (Schwenk) Same zoom link as above
 
 
-- #6 March 3, 2023.  ASR1: Features and Acoustic Models (Zeghidour, Algayres) 
 
-- #7 March 10, 2023.  ASR2: Language Models for Speech (Dupoux)
-
-
-- #8 March 17, 2023. ASR3: End-to-end models (Zeghidour, Algayres)
+- #6 March 3, 2023.  ASR1: Features and Acoustic Models (Zeghidour, Algayres) Same zoom link as above
 
 
-- #9 March 24, 2023. Hot topics in speech and language (Sagot, Dupoux) 
+- #7 March 10, 2023.  ASR2: Language Models for Speech (Dupoux) Same zoom link as above
+
+
+
+- #8 March 17, 2023. ASR3: End-to-end models (Zeghidour, Algayres) Same zoom link as above
+
+
+
+- #9 March 24, 2023. Hot topics in speech and language (Sagot, Dupoux) Same zoom link as above
+
     - chatbots
 	- textless NLP
 
