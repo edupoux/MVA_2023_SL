@@ -73,7 +73,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 
 - #3 Feb 10, 2023. NLP2. Representation learning for NLP (Sagot, Algayres) [zoom link](https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09) — [quiz link](https://forms.gle/MqphGpnGMhS48biH9)
 
-- #4 Feb 17, 2023. NLP3. Advanced topics in NLP (Sagot, Algayres). [zoom link](https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09) — [quiz link](https://forms.gle/MqphGpnGMhS48biH9)
+- #4 Feb 17, 2023. NLP3. Advanced topics in NLP (Sagot, Algayres). [prerecorded class](https://www.youtube.com/playlist?list=PLoWKS7d8OzpVQ-HthtgmVPeYU7kx6KeDa) — [zoom link (please connect at 6pm after watching the class)](https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09) — [quiz link (will be made available once everyone is connected on the zoom)](https://forms.gle/MqphGpnGMhS48biH9)
 
 
 
