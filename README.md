@@ -14,6 +14,7 @@ https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09
 
 Once everyone is connected, you will have some time to ask questions about the class and then we will let you answer the quizz.
 
+Regarding the deadline for the project one-pager: we let you have one more week to write it and we will collect them on Friday 24th . 
 
 ## Course Organizers
 Emmanuel Dupoux (EHESS & Meta), Benoît Sagot (INRIA), Robin Algayres (ENS), Neil Zeghidour (Google Brain)
