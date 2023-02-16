@@ -4,10 +4,14 @@
 
 [//]: # "We are very sorry to announce that **this course will only be available remotely**. This year the only room that we were able to secure for the course (salle Henri Cartan, ENS) turned out to be 3 times too small, and its internet was not reliable enough to sustain a hybride mode. The course will then run through zoom in real time (there won't be video capture). The quizzes and Q&A sessions will also be online and in real time. The time is every Friday afternoons from 4pm to 7pm. "
 
-For Friday 17th of February: M. Benoit Sagot is feeling under-the-weather and will not be able to teach Friday class. You will have to watch the class 'MVA SLP 2022 - Course 8 - NLP applications and challenges' that is available on youtube at:
+For Friday 17th of February: M. Benoit Sagot is feeling sick and will not be able to teach Friday class. You will have to watch the class 'MVA SLP 2022 - Course 8 - NLP applications and challenges' that is available on youtube at:
+
 https://www.youtube.com/playlist?list=PLoWKS7d8OzpVQ-HthtgmVPeYU7kx6KeDa (please watch the 5 videos)
+
 Then, you'll have to answer the quizz, so please on Friday 17th connect at 6pm on the zoom: 
+
 https://us02web.zoom.us/j/7760908306?pwd=WnpPL2NqdXIxMzNtSEMxZE5RZVZIZz09
+
 Once everyone is connected, you will have some time to ask questions about the class and then we will let you answer the quizz.
 
 
