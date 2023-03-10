@@ -80,7 +80,7 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 - #6 March 3, 2023.  ASR1: Features and Acoustic Models (Zeghidour, Algayres) Same zoom link as above
 
 
-- #7 March 10, 2023.  ASR2: Language Models for Speech (Dupoux) Same zoom link as above
+- #7 March 10, 2023.  ASR2: Language Models for Speech (Dupoux) Same zoom link as above [quiz link](https://forms.gle/https://forms.gle/HK8FCWjqc8oitgFn7)
 
 
 
