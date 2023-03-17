@@ -84,7 +84,8 @@ ATTENTION: since there is no "exam", there is no possibility of "rattrapage" (ie
 
 
 
-- #8 March 17, 2023. ASR3: End-to-end models (Zeghidour, Algayres) Same zoom link as above
+- #8 March 17, 2023. ASR3: End-to-end models (Zeghidour, Algayres) Same zoom link as above (1h) followed by 
+[prerecorded class](https://www.youtube.com/watch?v=mVPT3ipbBQU&list=PLoWKS7d8OzpVNj7A1DhvZknc0UherZbVf&index=3&t=4s)
 
 
 
